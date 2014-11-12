@@ -5,17 +5,18 @@ public class Test {
 	 * @descript 
 	 * @author hanqingsong
 	 * @version 1.0
-	 * @date 2014年11月12日下午2:04:35
+	 * @date 2014脛锚11脭脗12脠脮脧脗脦莽2:04:35
 	 * @param args
 	 */
 	public static void main(String[] args) {
+		System.out.println("aaaa");
 		System.out.println("Test.main()");
 	}
 	/**
 	 * @descript 
 	 * @author hanqingsong
 	 * @version 1.0
-	 * @date 2014年11月12日下午2:05:19
+	 * @date 2014脛锚11脭脗12脠脮脧脗脦莽2:05:19
 	 * @param i
 	 * @return
 	 */
